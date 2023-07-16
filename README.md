@@ -1,3 +1,3 @@
-# design
-design for attendance management system
+# Design
+Design for Attendance Management System
 Currently in Progress
